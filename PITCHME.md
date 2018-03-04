@@ -77,17 +77,18 @@
 
 +++
 
-![](assets/taiwan2.png)
+![](assets/taiwan2.jpg)
 
 +++
 
-![](assets/taiwan3.png)
+![](assets/taiwan3.jpg)
 
 +++
 
 # 中国
 # （上海）
 
++++
 
 - アメリカ（西海岸＋NY）
 - インド ←NEW!
