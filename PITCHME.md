@@ -502,6 +502,13 @@
 
 ---
 
+![インドスケジュール](https://github.com/areph/india2018/blob/master/README.md)
+
+
+![持ち物リスト](https://github.com/areph/india2018/blob/master/TravelPackingItemList.md)
+
+---
+
 # Q&A
 
 ---
