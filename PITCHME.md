@@ -75,9 +75,13 @@
 
 +++?image=assets/taiwan1.jpg
 
-+++?image=assets/taiwan2.jpg
++++
 
-+++?image=assets/taiwan3.jpg
+![](assets/taiwan2.png)
+
++++
+
+![](assets/taiwan3.png)
 
 +++
 
