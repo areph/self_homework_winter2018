@@ -67,17 +67,24 @@
 +++
 
 ### 仕事しながら旅したところ
-（各ページで代表な写真を１スライドずつほしい）
-
-- 日本
-
-+++?image=assets/taiwan.jpg
-
-## 台湾
 
 +++
 
-- 中国（上海）
+# 台湾
+# （台北＆台南）
+
++++?image=assets/taiwan1.jpg
+
++++?image=assets/taiwan2.jpg
+
++++?image=assets/taiwan3.jpg
+
++++
+
+# 中国
+# （上海）
+
+
 - アメリカ（西海岸＋NY）
 - インド ←NEW!
 
